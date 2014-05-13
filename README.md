@@ -2,8 +2,8 @@
 ##x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 
 1. The program is made in two files.
-a)life.c
-b)util.c
+* life.c
+* util.c
 
 2. To compile the code and form the executable "life", type in terminal:
 make 
