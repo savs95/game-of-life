@@ -1,5 +1,5 @@
 ##SIMULATION OF CONWAYS'S GAME OF LIFE
-##x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+###x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 
 * The program is made in two files: 
 (i) life.c
