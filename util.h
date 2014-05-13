@@ -1,0 +1,10 @@
+void nRowsCols(char *,int*,int*);
+int** createBoard(int,int);
+void initializeBoard(int**,int,int,char*);
+int** copyGen(int**,int,int);
+int** reset(int,int);
+void printBoard(int**,int,int);
+void neighbourVal(int**,int**,int,int);
+void deadCell(int**,int**,int**,int,int);
+void liveCell(int**,int**,int**,int,int);
+void freeMatrix(int**,int,int);
